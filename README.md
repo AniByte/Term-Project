@@ -5,7 +5,7 @@ Team Members:
 
 [Kirtan Sakariya](https://github.com/kirtansakariya)
 
-Mark Babatunde (mbabatunde.github.io)
+[Mark Babatunde](https://github.com/mbabatunde)
 
 Abbas Ahmed
 
