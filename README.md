@@ -7,6 +7,6 @@ Team Members:
 
 [Mark Babatunde](https://github.com/mbabatunde)
 
-Abbas Ahmed
+[Abbas Ahmed] (https://github.com/abbasahmed)
 
 [Ram Iyer](https://github.com/ramiyer1998)
