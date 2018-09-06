@@ -3,7 +3,7 @@ Web-based story with user interaction
 
 Team Members: 
 
-Kirtan Sakariya
+[Kirtan Sakariya](https://github.com/kirtansakariya)
 
 Mark Babatunde
 
