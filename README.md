@@ -1,7 +1,9 @@
 # Term-Project
 Web-based story with user interaction 
 
-Team Members: 
+
+
+<br/>Team Members: 
 
 [Kirtan Sakariya](https://github.com/kirtansakariya)
 
